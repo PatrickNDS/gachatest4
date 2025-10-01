@@ -1,0 +1,76 @@
+{
+  "active": [
+    {
+      "id": 1,
+      "title": "Banner de Shorekeeper",
+      "game": "Wuthering Waves",
+      "type": "Banner",
+      "startDate": "28/09/2025",
+      "endDate": "18/10/2025",
+      "daysLeft": 17,
+      "rewards": ["5★ Shorekeeper", "Pulls Grátis", "Materiais"],
+      "emoji": "🌊",
+      "status": "active"
+    },
+    {
+      "id": 2,
+      "title": "Evento de Aniversário",
+      "game": "Genshin Impact",
+      "type": "Evento Especial",
+      "startDate": "28/09/2025",
+      "endDate": "15/10/2025",
+      "daysLeft": 14,
+      "rewards": ["Primogemas", "Materiais Raros", "Namecard"],
+      "emoji": "🎂",
+      "status": "active"
+    },
+    {
+      "id": 3,
+      "title": "Desafio da Torre",
+      "game": "Wuthering Waves",
+      "type": "Desafio",
+      "startDate": "01/10/2025",
+      "endDate": "31/10/2025",
+      "daysLeft": 30,
+      "rewards": ["Astrite", "Ecos Premium", "Títulos"],
+      "emoji": "🏰",
+      "status": "active"
+    }
+  ],
+  "upcoming": [
+    {
+      "id": 4,
+      "title": "Novo Banner - Versão 1.4",
+      "game": "Wuthering Waves",
+      "type": "Banner",
+      "startDate": "19/10/2025",
+      "endDate": "08/11/2025",
+      "daysUntil": 18,
+      "emoji": "✨",
+      "status": "upcoming"
+    },
+    {
+      "id": 5,
+      "title": "Evento de Halloween",
+      "game": "Genshin Impact",
+      "type": "Evento Temático",
+      "startDate": "25/10/2025",
+      "endDate": "05/11/2025",
+      "daysUntil": 24,
+      "emoji": "🎃",
+      "status": "upcoming"
+    }
+  ],
+  "past": [
+    {
+      "id": 6,
+      "title": "Banner de Changli",
+      "game": "Wuthering Waves",
+      "type": "Banner",
+      "startDate": "08/09/2025",
+      "endDate": "27/09/2025",
+      "emoji": "🔥",
+      "status": "ended"
+    }
+  ]
+}

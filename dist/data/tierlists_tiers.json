@@ -1,0 +1,22 @@
+[
+  {
+    "tier": "S+",
+    "color": "from-red-500 to-red-600",
+    "characters": ["🌊", "⚡", "✨"]
+  },
+  {
+    "tier": "S",
+    "color": "from-orange-500 to-orange-600",
+    "characters": ["🔥", "⚔️", "🌪️", "❄️"]
+  },
+  {
+    "tier": "A",
+    "color": "from-yellow-500 to-yellow-600",
+    "characters": ["🌿", "⚡", "🔥"]
+  },
+  {
+    "tier": "B",
+    "color": "from-green-500 to-green-600",
+    "characters": ["🧊", "🌬️"]
+  }
+]

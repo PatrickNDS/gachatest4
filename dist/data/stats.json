@@ -1,0 +1,6 @@
+[
+  { "label": "Personagens", "value": "47", "icon": "Users", "link": "/personagens" },
+  { "label": "Tier Lists", "value": "12", "icon": "Trophy", "link": "/tier-lists" },
+  { "label": "Guias", "value": "89", "icon": "BookOpen", "link": "/guias" },
+  { "label": "Ferramentas", "value": "15", "icon": "Wrench", "link": "/ferramentas" }
+]

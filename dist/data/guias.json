@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "title": "Guia Completo: Como Maximizar Seus Pulls",
+    "category": "Estratégia",
+    "difficulty": "Iniciante",
+    "readTime": "8 min",
+    "views": "23.5k",
+    "rating": 4.8,
+    "emoji": "🎯"
+  },
+  {
+    "id": 2,
+    "title": "Build Definitiva: Shorekeeper",
+    "category": "Personagem",
+    "difficulty": "Intermediário",
+    "readTime": "12 min",
+    "views": "18.2k",
+    "rating": 4.9,
+    "emoji": "🌊"
+  },
+  {
+    "id": 3,
+    "title": "Guia de Ecos: Como Farmar Eficientemente",
+    "category": "Farming",
+    "difficulty": "Iniciante",
+    "readTime": "6 min",
+    "views": "15.7k",
+    "rating": 4.7,
+    "emoji": "💎"
+  },
+  {
+    "id": 4,
+    "title": "Composições de Equipe para Tower of Adversity",
+    "category": "Endgame",
+    "difficulty": "Avançado",
+    "readTime": "15 min",
+    "views": "21.3k",
+    "rating": 4.9,
+    "emoji": "🏰"
+  },
+  {
+    "id": 5,
+    "title": "Guia de Iniciante: Primeiros Passos",
+    "category": "Iniciante",
+    "difficulty": "Iniciante",
+    "readTime": "10 min",
+    "views": "32.1k",
+    "rating": 4.8,
+    "emoji": "🌟"
+  },
+  {
+    "id": 6,
+    "title": "Melhores Armas para Cada Personagem",
+    "category": "Equipamento",
+    "difficulty": "Intermediário",
+    "readTime": "20 min",
+    "views": "19.8k",
+    "rating": 4.7,
+    "emoji": "⚔️"
+  },
+  {
+    "id": 7,
+    "title": "Como Otimizar Seus Recursos",
+    "category": "Economia",
+    "difficulty": "Iniciante",
+    "readTime": "7 min",
+    "views": "16.4k",
+    "rating": 4.6,
+    "emoji": "💰"
+  },
+  {
+    "id": 8,
+    "title": "Rotações de Combate Avançadas",
+    "category": "Combate",
+    "difficulty": "Avançado",
+    "readTime": "18 min",
+    "views": "14.2k",
+    "rating": 4.8,
+    "emoji": "⚡"
+  },
+  {
+    "id": 9,
+    "title": "Guia Completo de Ressonância",
+    "category": "Sistema",
+    "difficulty": "Intermediário",
+    "readTime": "14 min",
+    "views": "17.9k",
+    "rating": 4.7,
+    "emoji": "🔮"
+  }
+]

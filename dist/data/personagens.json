@@ -1,0 +1,14 @@
+[
+  { "id": 1, "name": "Shorekeeper", "element": "Spectro", "rarity": 5, "role": "Support", "emoji": "🌊" },
+  { "id": 2, "name": "Jiyan", "element": "Aero", "rarity": 5, "role": "DPS", "emoji": "🌪️" },
+  { "id": 3, "name": "Yinlin", "element": "Electro", "rarity": 5, "role": "Sub-DPS", "emoji": "⚡" },
+  { "id": 4, "name": "Encore", "element": "Fusion", "rarity": 5, "role": "DPS", "emoji": "🔥" },
+  { "id": 5, "name": "Verina", "element": "Spectro", "rarity": 5, "role": "Support", "emoji": "🌿" },
+  { "id": 6, "name": "Calcharo", "element": "Electro", "rarity": 5, "role": "DPS", "emoji": "⚔️" },
+  { "id": 7, "name": "Jinhsi", "element": "Spectro", "rarity": 5, "role": "DPS", "emoji": "✨" },
+  { "id": 8, "name": "Changli", "element": "Fusion", "rarity": 5, "role": "Sub-DPS", "emoji": "🔥" },
+  { "id": 9, "name": "Zhezhi", "element": "Glacio", "rarity": 5, "role": "Sub-DPS", "emoji": "❄️" },
+  { "id": 10, "name": "Xiangli Yao", "element": "Electro", "rarity": 5, "role": "DPS", "emoji": "⚡" },
+  { "id": 11, "name": "Baizhi", "element": "Glacio", "rarity": 4, "role": "Support", "emoji": "🧊" },
+  { "id": 12, "name": "Yangyang", "element": "Aero", "rarity": 4, "role": "Support", "emoji": "🌬️" }
+]

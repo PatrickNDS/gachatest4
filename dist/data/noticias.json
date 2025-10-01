@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "category": "Wuthering Waves",
+    "title": "Novo Banner de Shorekeeper Chegando em Breve",
+    "excerpt": "Prepare-se para o banner mais aguardado do mês com a nova personagem Shorekeeper. Confira todos os detalhes sobre suas habilidades e como maximizar suas chances de consegui-la.",
+    "date": "2 horas atrás",
+    "tag": "Destaque",
+    "emoji": "🌊"
+  },
+  {
+    "id": 2,
+    "category": "Genshin Impact",
+    "title": "Atualização 4.2: Novos Personagens e Eventos",
+    "excerpt": "A nova atualização traz personagens inéditos, eventos especiais e muito mais. Descubra tudo o que está por vir nesta grande atualização.",
+    "date": "5 horas atrás",
+    "tag": "Novo",
+    "emoji": "⚔️"
+  },
+  {
+    "id": 3,
+    "category": "Honkai Star Rail",
+    "title": "Guia Completo: Melhores Builds para Kafka",
+    "excerpt": "Aprenda as melhores builds, relíquias e composições de equipe para maximizar o potencial de Kafka em todas as situações de combate.",
+    "date": "1 dia atrás",
+    "tag": null,
+    "emoji": "⭐"
+  },
+  {
+    "id": 4,
+    "category": "Wuthering Waves",
+    "title": "Tier List Atualizada - Meta Atual",
+    "excerpt": "Confira os personagens mais fortes do meta atual e monte suas equipes ideais. Análise completa de todos os personagens disponíveis.",
+    "date": "2 dias atrás",
+    "tag": null,
+    "emoji": "🏆"
+  },
+  {
+    "id": 5,
+    "category": "Genshin Impact",
+    "title": "Evento Especial: Recompensas Exclusivas",
+    "excerpt": "Participe do evento especial e ganhe recompensas exclusivas, incluindo primogemas, materiais raros e muito mais.",
+    "date": "3 dias atrás",
+    "tag": "Evento",
+    "emoji": "🎁"
+  },
+  {
+    "id": 6,
+    "category": "Honkai Star Rail",
+    "title": "Novos Códigos de Resgate Disponíveis",
+    "excerpt": "Resgate agora os novos códigos e ganhe Stellar Jade, materiais de ascensão e outros itens valiosos gratuitamente.",
+    "date": "4 dias atrás",
+    "tag": null,
+    "emoji": "🎫"
+  }
+]

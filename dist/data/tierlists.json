@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "title": "Tier List Geral - PvE",
+    "game": "Wuthering Waves",
+    "updated": "Atualizado hoje",
+    "views": "15.2k",
+    "emoji": "🏆"
+  },
+  {
+    "id": 2,
+    "title": "Melhores DPS do Meta Atual",
+    "game": "Wuthering Waves",
+    "updated": "Há 2 dias",
+    "views": "12.8k",
+    "emoji": "⚔️"
+  },
+  {
+    "id": 3,
+    "title": "Tier List de Supports",
+    "game": "Wuthering Waves",
+    "updated": "Há 3 dias",
+    "views": "9.5k",
+    "emoji": "🛡️"
+  },
+  {
+    "id": 4,
+    "title": "Personagens para Iniciantes",
+    "game": "Wuthering Waves",
+    "updated": "Há 5 dias",
+    "views": "18.3k",
+    "emoji": "🌟"
+  },
+  {
+    "id": 5,
+    "title": "Tier List - Genshin Impact 4.2",
+    "game": "Genshin Impact",
+    "updated": "Há 1 semana",
+    "views": "25.1k",
+    "emoji": "🎮"
+  },
+  {
+    "id": 6,
+    "title": "Melhores Equipes - Honkai Star Rail",
+    "game": "Honkai Star Rail",
+    "updated": "Há 1 semana",
+    "views": "14.7k",
+    "emoji": "⭐"
+  }
+]
